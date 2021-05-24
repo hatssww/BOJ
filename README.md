@@ -1,5 +1,5 @@
 # BOJ
-Backjoon Online Judge(백준 온라인 저지)에서 푼 소스 코드들을 업로드 합니다.
+Baekjoon Online Judge(백준 온라인 저지)에서 푼 소스 코드들을 업로드 합니다.
 
 💻 https://solved.ac/profile/hatssww
 
